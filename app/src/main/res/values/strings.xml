@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EtsTurSampleApp</string>
+    <string name="hint_search">Search…</string>
+    <string name="title_error_dialog">Error</string>
+    <string name="lbl_error_dialog_message">Check your internet connection.</string>
+
+</resources>
